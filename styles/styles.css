@@ -349,7 +349,19 @@ section {
   width: 50%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .javascript {
+  width: 45%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .typescript {
+  width: 55%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .angular {
+  width: 25%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .csharp {
   width: 50%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .markdown {
+  width: 95%;
 }
 
 .stat-title {
